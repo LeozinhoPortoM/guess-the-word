@@ -1,0 +1,10 @@
+.start {
+  margin: 10px;
+  font-size: 1.5rem;
+}
+
+.start > p {
+  margin: 20px 0 40px;
+  color: #ecfa00;
+}
+
