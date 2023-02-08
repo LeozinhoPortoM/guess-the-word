@@ -1,0 +1,12 @@
+.gameOver{
+    padding: 20px 0;
+}
+
+.gameOver h2{
+    margin: 20px 0;
+}
+
+h2 span{
+    color: #ecfa00;
+    font-size: 1.5rem;
+}
